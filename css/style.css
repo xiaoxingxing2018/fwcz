@@ -1,0 +1,248 @@
+@charset "utf-8";
+/* CSS Document */
+.header{
+	height: 41px;
+	background-color: #292C33;
+}
+.header ul{
+	height: 41px;
+}
+.header ul li{
+	float: left;
+	color: #616878;
+	font-size: 12px;
+	line-height: 41px;
+	margin-left: 37.8px;
+	width: 24px;
+}
+.nav{
+	height: 76px;
+	border-bottom: 2px solid #EAEAEA;
+}
+.navn{
+	height: 76px;
+}
+.nav .logo{
+	width: 170px;
+	height: 54px;
+	padding-top: 12px;
+	float: left;
+}
+.navn ul{
+	height: 76px;
+	float: right;
+	line-height: 76px;
+	color: #42556F;
+}
+.navn ul li{
+	float: left;
+	margin-right: 36px;
+	font-size: 16px;
+}.navn ul li:hover {
+	color: #6EB92B;
+}
+.banner{
+	height: 518px;
+	background: url(../img/banner.png) no-repeat;
+	background-size: 1200px 518px;
+	margin-top: 4px;
+}
+ .sousuo{
+	width: 847px;
+	height: 94px;
+	background-color: rgba(0,0,0,0.6);
+	border-radius: 4px;
+	margin: 0 auto;
+	position: relative;
+	top: 199px;
+	 border: 1px solid rgba(0,0,0,0.9);
+}
+ 
+
+<span style="white-space:pre">   </span>form{background:#666666;}  
+select{
+ margin-top: 22px;
+border: solid 0px red;  
+ appearance:none;  
+-moz-appearance:none;    /*for firefox*/       
+-webkit-appearance:none;    /*for chrome*/  
+color:#666666;
+padding-left: 34px;
+font-size: 14px;  
+ width: 120px;  
+ height: 50px;  
+ overflow: hidden;  
+ background: url( file:///D:/html/fangwu/img/xiala.png) no-repeat 86px 23px #fff;  
+}  
+option{ color:#666666;} 
+
+#swan{
+	height: 48px;
+	width: 189px;
+	border: 0px;
+	position: relative;
+	top: -2px;
+	padding-left: 10px;
+}
+#sou{
+	width: 115px;
+	height: 50px;
+	background-color: #6EB92B;
+	border: 0px;
+	font-size: 16px;
+	color: #fff;
+}
+.neirong{
+	height: 1345px;
+}
+.neirongzuo .zuo{
+	width: 250px;
+	height: 94px;
+}
+.neirongzuo{
+	margin-top: 41px;
+	float: left;
+	height: 1260px;
+}
+.neirongzuo .zuo li{
+	width: 120px;
+	height: 42px;
+	background-color: red;
+	float: left;
+	text-align: center;
+	line-height: 42px;
+}
+.neirongzuo .zuo li a{
+	color: #666666;
+}
+.neirongzuo .zuo li:nth-child(1){
+	background-color: #E6EBCA
+}
+.neirongzuo .zuo li:nth-child(2){
+	background-color: #C5DCF6;
+	margin-left: 10px;
+}
+.neirongzuo .zuo li:nth-child(3){
+	background-color: #D8EFCA;
+	margin-top: 10px;
+}
+.neirongzuo .zuo li:nth-child(4){
+	background-color: #FFCBCA;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.fc{
+	width: 250px;
+	margin-top: 31px;
+	height: 562px;
+}
+.neirongzuo .fc h4{
+	width: 250px;
+	height: 30px;
+	line-height: 30px;
+	border-bottom: 2px solid #E4E4E4;
+}
+.fc h4 span{
+	width: 114px;
+	display: block;
+	color: #6EB92B;
+	border-bottom: 2px solid #6EB92B;
+	font-size: 18px;
+	padding-left: 3px;
+}
+.fc li{
+	height: 30px;
+	line-height: 30px;
+	font-size: 0px;
+}
+.fc li span{
+	font-size: 14px;
+	color: #444444;
+	padding-right: 12px;
+
+}
+.fc li a{
+	font-size: 14px;
+	color: #444444;
+}
+ .neirongyou{
+	height: 1287px;
+	width: 930px;
+	float: right;
+	margin-top: 58px;
+}
+.neirongyou p{
+	float: left;
+	font-size: 14px;
+	height: 14px;
+	display: block;
+}
+.neirongyou .youshang{
+	width: 930px;
+	height: 1145px;
+	margin-top: 29px;
+}
+.neirongyou .youshang li{
+	border-bottom: 1px solid #EEEEEE;
+	height: 40px;
+}
+.neirongyou .youshang li a{
+	float: left;
+	height: 40px;
+	line-height: 40px;
+	font-size: 14px;
+	color: #7A7E81;
+}
+.fanye{
+	margin-left: 259px;
+}
+.fanye p{
+	float: left;
+	height: 32px;
+	line-height: 32px;
+	color: #999999;
+	margin-left: 12px;
+}
+.fanye .youxia{
+	margin-top: 22px;
+	color: #999999;
+	margin-left: 145px;
+	height: 32px;
+	width: 220px;
+}
+.fanye .youxia li{
+	width: 30px;
+	height: 30px;
+	border:1px solid #E5E5E5;
+	border-left: 0px;
+	float: left;
+	text-align: center;
+	line-height: 30px;
+}
+
+.footer{
+	height: 300px;
+	border-top: 1px solid #E5E5E5;
+	margin-top: 35px;
+	text-align: center;
+}
+.footer .dibu{
+	margin-top: 30px;
+}
+.footer .dibu li span{
+	
+	font-size: 12px;
+	display: inline-block;
+	color: #666666;
+	padding:0 5px;
+}
+.footer li a{
+	color: #666666;
+	font-size: 12px;
+	line-height: 31px;
+}
+.gwdith{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
